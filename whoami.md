@@ -1,7 +1,7 @@
 ---
 layout: page
 title: whoami
-permalink: /about/
+permalink: /whoami/
 ---
 
 Interested in Adversarial Example, Software Exploitation, CTF(mainly pwn), and Malware Analysis
