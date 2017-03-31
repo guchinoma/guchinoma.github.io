@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /About/
 ---
 Fond of Adversarial Example, Software Exploitation, and Malware Analysis
 ### Activity
