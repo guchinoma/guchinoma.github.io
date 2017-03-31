@@ -1,8 +1,9 @@
 ---
 layout: page
 title: About
-permalink: /About/
+permalink: /about/
 ---
+
 Fond of Adversarial Example, Software Exploitation, and Malware Analysis
 ### Activity
 Participated in seccamp2016
