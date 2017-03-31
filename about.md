@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About_me
+permalink: /abou_me/
 ---
-Fond of Adversarial Example, Software Exploitation, Malware Analysis
+Fond of Adversarial Example, Software Exploitation, and Malware Analysis
 ### Activity
-seccamp2016
+Participated in seccamp2016
