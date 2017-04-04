@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 ### Who
-Noma. A dorky nerd .
+Noma. A dorky nerd.
 ### Interest
 Adversarial Example, Software Exploitation, CTF(mainly pwn), and Malware Analysis
 ### Activity
