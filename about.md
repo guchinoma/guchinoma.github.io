@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 ### Who
-Noma. law student, nerd, and computer otaku.
+Noma. Law student, nerd, and computer otaku.
 ### Interest
 Adversarial Example, Software Security, CTF(mainly pwn), and Malware Analysis
 ### Activity
