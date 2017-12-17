@@ -1,13 +1,16 @@
 This post is for [Harekaze Advent Calendar 2017](https://adventar.org/calendars/2292)
 
 **Introduction
+
 As I am now working on malware analysis using machine learning in my study group, I have opportunities of playing with PE malware. For extracting all assembly code of the malware itself, I will use brand-new binary paring platform called [LIEF](https://github.com/lief-project/LIEF).
 
 **Goal
+
 In this post I will try to perform all of assembly code in .text segment. 
 In my understanding this section is corresponded to code we usually write (Is that correct?). This assembly code also has addresses of imported Windows APIs. For Windows APIs show potential behaviour of executables, I tried to replace the addresses with Windows APIs, after extracting the assembly.
 
 **LIEF
+
 LIEF is a binary parsing library for multi-type executables. Whilst pefile only parses PE executables, LIEF can parse not only PEs and ELFs, but Mach-O files. Using Python bindings, you can parse all the information using object-style.
 
 **Implementation
