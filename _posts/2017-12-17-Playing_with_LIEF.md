@@ -1,4 +1,4 @@
-This post is for [Harekaze Advent Calendar 2017](https://adventar.org/calendars/2292)
+This post is for [Harekaze Advent Calendar 2017.](https://adventar.org/calendars/2292)
 
 <br>**Introduction**
 
@@ -11,7 +11,7 @@ In my understanding this section is corresponded to code we usually write (Is th
 
 <br>**LIEF**
 
-LIEF is a binary parsing library for multi-type executables. Whilst pefile only parses PE executables, LIEF can parse not only PEs and ELFs, but Mach-O files. Using Python bindings, you can parse all the information using object-style.
+LIEF is a binary parsing library for multi-type executables. Whilst [pefile](https://github.com/erocarrera/pefile) only parses PE executables, LIEF can parse not only PEs and ELFs, but Mach-O files. Using Python bindings, you can parse all the information using object-style.
 
 <br>**Implementation**
 
@@ -30,6 +30,7 @@ def main():
     # Would appreciate if you teach me more sophisticated implementation
 
     binary_file_name = "output.txt"
+    binary = raw_input() # path to target binary
 
     b = lief.PE.parse(binary)
     txt_section = b.get_section(".text")
