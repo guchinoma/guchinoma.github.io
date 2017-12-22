@@ -11,7 +11,7 @@ In my understanding this section is corresponded to code we usually write (Is th
 
 <br>**LIEF**
 
-LIEF is a binary parsing library for multi-type executables. Whilst [pefile](https://github.com/erocarrera/pefile) only parses PE executables, LIEF can parse not only PEs and ELFs, but Mach-O files. Using Python bindings, you can parse all the information using object-style.
+LIEF is a cross platform library to parse, modify and construct binary. You can perform not only binary parsing, but change some assembly-level coddes with this. In parsing, whilst [pefile](https://github.com/erocarrera/pefile) only parses PE executables, LIEF can parse not only PEs and ELFs, but Mach-O files. Using Python bindings, you can parse all the information using object-style.
 
 <br>**Implementation**
 
