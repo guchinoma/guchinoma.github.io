@@ -2,7 +2,7 @@ This post is for [Harekaze Advent Calendar 2017.](https://adventar.org/calendars
 
 <br>**Introduction**
 
-As I am now working on malware analysis using machine learning in my study group, I have opportunities of playing with PE malware. For extracting all assembly code of the malware itself, I will use brand-new binary paring platform called [LIEF](https://github.com/lief-project/LIEF).
+As I am now working on malware analysis using machine learning in my study group, I have opportunities of playing with PE malware. For extracting all assembly code of the malware itself, I will use brand-new binary parsing/modifying/constructing platform called [LIEF](https://github.com/lief-project/LIEF).
 
 <br>**Goal**
 
