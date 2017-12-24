@@ -6,7 +6,7 @@ As I am now working on malware analysis using machine learning in my study group
 
 <br>**Goal**
 
-In this post I will try to perform all of assembly code in .text segment. 
+In this post I will try to extract all of assembly code in .text segment. 
 In my understanding this section is corresponded to code we usually write (Is that correct?). This assembly code also has addresses of imported Windows APIs. For Windows APIs show potential behaviour of executables, I tried to replace the addresses with Windows APIs, after extracting the assembly.
 
 <br>**LIEF**
