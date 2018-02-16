@@ -8,8 +8,8 @@ Noma. Law student, nerd, and computer otaku.
 ### Interest
 Adversarial Example, Reverse Engineering, CTF(mainly pwn), and Malware Analysis.
 ### Twitter
-japanese:@Knoma10
-English:@Knoma10_eng
+Japanese:[@Knoma10](https://twitter.com/Knoma10)
+English:[@Knoma10_eng](https://twitter.com/Knoma10_eng)
 ### Activity
 Participated in [Security Camp in 2016.](http://www.security-camp.org/camp/index.html)
 Did presentation in [Information Processing Society of Japan](http://www.ipsj.or.jp/event/taikai/79/english/index.html) about machine learning.
