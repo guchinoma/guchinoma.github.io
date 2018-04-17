@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 ### Who
-Noma. Law student, nerd, and computer otaku.
+Noma. Ex-law student, nerd, and computer otaku.
 ### Interest
 Adversarial Example, Reverse Engineering, CTF(mainly pwn), and Malware Analysis.
 ### Twitter
